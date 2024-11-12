@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Joshua</h1>
-<h3 align="center">A passionate Back End Developer from Philippines</h3>
+<h3 align="left">A passionate Back End Developer from Philippines</h3>
 
-- 🎓 I'm a fresh grad (Bachelor of Science in Computer Science)
+- 🎓 I'm a fresh graduate in Bachelor of Science in Computer Science
 
 - 🌱 I’m currently learning: **Python, PHP, Mysql, HTML, CSS**
 
